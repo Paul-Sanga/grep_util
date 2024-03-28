@@ -3,4 +3,4 @@ I used it to learn more about scoped threads in Rust and how to create CLI apps 
 It accepts two parameters: 
 1. -f for file input
 2. -s for search phrase.
-It returns a line in the file containing that search phrase.
+It prints out lines in the file containing that search phrase.
